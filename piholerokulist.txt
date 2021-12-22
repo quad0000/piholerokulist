@@ -1,3 +1,4 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 cloudservices.roku.com
 0.0.0.0 cooper.logs.roku.com
+0.0.0.0 images.sr.roku.com
