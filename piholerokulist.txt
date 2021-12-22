@@ -1,2 +1,3 @@
 scribe.logs.roku.com
 cloudservices.roku.com
+cooper.logs.roku.com
