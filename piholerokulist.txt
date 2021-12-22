@@ -3,3 +3,4 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 images.sr.roku.com
 0.0.0.0 ravm.tv
+#0.0.0.0 securepubads.g.doubleclick.net
